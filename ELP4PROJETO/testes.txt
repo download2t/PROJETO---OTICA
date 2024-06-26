@@ -1,0 +1,17 @@
+colocar o botão de excluir como vermelho quando entrar no metodo e o fore color como branco.
+cadastrar em clientes e fornecedores  a condição de pagamento.
+Criar metodo para desativar produto.
+
+
+INCLUIR ALTERAR EXCLUIR
+Paises  					OK OK OK 
+estados                     OK OK OK 
+Cidades                     OK OK OK   
+Clientes 					OK OK OK 	
+Fornecedores                OK OK OK 
+Funcionarios				OK OK OK 
+Cargos						OK OK OK 
+Forma de pagamento			OK OK OK 
+Condição de pagamento       OK OK OK 
+Categorias                  OK  X OK Verificar por que a foto esta dando erro ao alterar. erro em apenas algumas fotos.
+COMPRA                      X  X  X
