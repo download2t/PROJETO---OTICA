@@ -12,7 +12,7 @@ namespace ELP4PROJETO.Classes
 
     internal static class Program
     {
-
+        //Sistema de otica Matheus Duarte Barros
         [STAThread]
         static void Main()
         {
